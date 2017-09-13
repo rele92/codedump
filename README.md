@@ -1,5 +1,5 @@
 # codedump
-
+/*
 static int make_periodic (unsigned int period, struct periodic_info *info)
 {
 	int ret;
@@ -44,3 +44,4 @@ static void wait_period (struct periodic_info *info)
 	if (missed > 0)
 		info->wakeups_missed += (missed - 1);
 }
+*/
